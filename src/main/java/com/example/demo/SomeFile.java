@@ -1,7 +1,7 @@
 package com.example.demo;
 
 public class SomeFile {
-void addernew(){
+void adders(){
 
 }
 }
